@@ -4,6 +4,6 @@ collection: teaching
 type: "Online"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of North Texas, Department of Information Science"
-date: 2018
+date: 2018-08-26
 location: "Denton, Texas"
 ---
