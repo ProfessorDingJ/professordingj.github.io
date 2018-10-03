@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junhua Ding / Professor Junhua Ding @UNT"
+title                    : "Junhua Ding"
 title_separator          : "-"
 name                     : &name "Junhua Ding"
 description              : &description "Professor of Data Science"
@@ -84,7 +84,7 @@ author:
   bio              : "Professor of Data Science at University of North Texas"
   location         : "Denton, Texas"
   employer         :
-  googlescholar    : ""
+  googlescholar    : # ""
   email            :
   uri              :
   bitbucket        :
@@ -93,13 +93,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ProfessorDingJ"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : # ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
