@@ -1,7 +1,7 @@
 ---
-title: "INFO 5709: Data Visualization and Communication"
+title: "INFO 4907: Data Visualization"
 collection: teaching
-type: "Online"
+type: "Undergraduate"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of North Texas, Department of Information Science"
 date: 2018-08-26
