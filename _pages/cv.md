@@ -19,10 +19,14 @@ Education
 Work experience
 ======
 * 8/2018 - Present: Professor
-  * Department of Informattion Science
+  * Department of Information Science
   * University of North Texas, Denton, Texas
 
-* 8/2007 - 8/2018: Assistant/Associate Professor
+* 8/2013 - 8/2018: Associate Professor
+  * Department of Computer Science
+  * East Carolina University, Greenville, North Carolina
+  
+* 8/2007 - 8/2013: Assistant Professor
   * Department of Computer Science
   * East Carolina University, Greenville, North Carolina
   
@@ -30,5 +34,5 @@ Work experience
   * Ortho Clinical Diagnostics 
   * a Johnson & Johnson Company, Rochester, New York
   
-* 5/2000 - 1/2007: Software Engineer
+* 5/2000 - 1/2007: Senior Software Engineer
   * Beckman Coulrter, Miami, Florida
